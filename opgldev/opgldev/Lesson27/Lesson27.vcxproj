@@ -19,32 +19,32 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\27\billboard_list.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\27\billboard_technique.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\27\camera.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\27\glut_backend.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\27\main.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\27\lighting_technique.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\27\math_3d.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\27\mesh.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\27\pipeline.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\27\technique.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\27\texture.cpp" />
+    <ClCompile Include="..\..\..\tutors\27\billboard_list.cpp" />
+    <ClCompile Include="..\..\..\tutors\27\billboard_technique.cpp" />
+    <ClCompile Include="..\..\..\tutors\27\camera.cpp" />
+    <ClCompile Include="..\..\..\tutors\27\glut_backend.cpp" />
+    <ClCompile Include="..\..\..\tutors\27\main.cpp" />
+    <ClCompile Include="..\..\..\tutors\27\lighting_technique.cpp" />
+    <ClCompile Include="..\..\..\tutors\27\math_3d.cpp" />
+    <ClCompile Include="..\..\..\tutors\27\mesh.cpp" />
+    <ClCompile Include="..\..\..\tutors\27\pipeline.cpp" />
+    <ClCompile Include="..\..\..\tutors\27\technique.cpp" />
+    <ClCompile Include="..\..\..\tutors\27\texture.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\27\billboard_list.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\27\billboard_technique.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\27\callbacks.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\27\camera.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\27\engine_common.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\27\glut_backend.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\27\lighting_technique.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\27\math_3d.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\27\mesh.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\27\pipeline.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\27\technique.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\27\texture.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\27\util.h" />
+    <ClInclude Include="..\..\..\tutors\27\billboard_list.h" />
+    <ClInclude Include="..\..\..\tutors\27\billboard_technique.h" />
+    <ClInclude Include="..\..\..\tutors\27\callbacks.h" />
+    <ClInclude Include="..\..\..\tutors\27\camera.h" />
+    <ClInclude Include="..\..\..\tutors\27\engine_common.h" />
+    <ClInclude Include="..\..\..\tutors\27\glut_backend.h" />
+    <ClInclude Include="..\..\..\tutors\27\lighting_technique.h" />
+    <ClInclude Include="..\..\..\tutors\27\math_3d.h" />
+    <ClInclude Include="..\..\..\tutors\27\mesh.h" />
+    <ClInclude Include="..\..\..\tutors\27\pipeline.h" />
+    <ClInclude Include="..\..\..\tutors\27\technique.h" />
+    <ClInclude Include="..\..\..\tutors\27\texture.h" />
+    <ClInclude Include="..\..\..\tutors\27\util.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

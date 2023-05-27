@@ -15,90 +15,90 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\28\billboard_technique.cpp">
+    <ClCompile Include="..\..\..\tutors\28\billboard_technique.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\28\camera.cpp">
+    <ClCompile Include="..\..\..\tutors\28\camera.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\28\glut_backend.cpp">
+    <ClCompile Include="..\..\..\tutors\28\glut_backend.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\28\lighting_technique.cpp">
+    <ClCompile Include="..\..\..\tutors\28\lighting_technique.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\28\main.cpp">
+    <ClCompile Include="..\..\..\tutors\28\main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\28\math_3d.cpp">
+    <ClCompile Include="..\..\..\tutors\28\math_3d.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\28\mesh.cpp">
+    <ClCompile Include="..\..\..\tutors\28\mesh.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\28\particle_system.cpp">
+    <ClCompile Include="..\..\..\tutors\28\particle_system.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\28\pipeline.cpp">
+    <ClCompile Include="..\..\..\tutors\28\pipeline.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\28\ps_update_technique.cpp">
+    <ClCompile Include="..\..\..\tutors\28\ps_update_technique.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\28\random_texture.cpp">
+    <ClCompile Include="..\..\..\tutors\28\random_texture.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\28\technique.cpp">
+    <ClCompile Include="..\..\..\tutors\28\technique.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\28\texture.cpp">
+    <ClCompile Include="..\..\..\tutors\28\texture.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\billboard_technique.h">
+    <ClInclude Include="..\..\..\tutors\28\billboard_technique.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\callbacks.h">
+    <ClInclude Include="..\..\..\tutors\28\callbacks.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\camera.h">
+    <ClInclude Include="..\..\..\tutors\28\camera.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\engine_common.h">
+    <ClInclude Include="..\..\..\tutors\28\engine_common.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\glut_backend.h">
+    <ClInclude Include="..\..\..\tutors\28\glut_backend.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\lighting_technique.h">
+    <ClInclude Include="..\..\..\tutors\28\lighting_technique.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\math_3d.h">
+    <ClInclude Include="..\..\..\tutors\28\math_3d.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\mesh.h">
+    <ClInclude Include="..\..\..\tutors\28\mesh.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\particle_system.h">
+    <ClInclude Include="..\..\..\tutors\28\particle_system.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\pipeline.h">
+    <ClInclude Include="..\..\..\tutors\28\pipeline.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\ps_update_technique.h">
+    <ClInclude Include="..\..\..\tutors\28\ps_update_technique.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\random_texture.h">
+    <ClInclude Include="..\..\..\tutors\28\random_texture.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\technique.h">
+    <ClInclude Include="..\..\..\tutors\28\technique.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\texture.h">
+    <ClInclude Include="..\..\..\tutors\28\texture.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\28\util.h">
+    <ClInclude Include="..\..\..\tutors\28\util.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

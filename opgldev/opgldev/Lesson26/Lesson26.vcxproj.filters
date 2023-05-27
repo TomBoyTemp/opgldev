@@ -15,96 +15,96 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\camera.cpp">
+    <ClCompile Include="..\..\..\tutors\26\camera.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\cubemap_texture.cpp">
+    <ClCompile Include="..\..\..\tutors\26\cubemap_texture.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\glut_backend.cpp">
+    <ClCompile Include="..\..\..\tutors\26\glut_backend.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\lighting_technique.cpp">
+    <ClCompile Include="..\..\..\tutors\26\lighting_technique.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\math_3d.cpp">
+    <ClCompile Include="..\..\..\tutors\26\math_3d.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\mesh.cpp">
+    <ClCompile Include="..\..\..\tutors\26\mesh.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\pipeline.cpp">
+    <ClCompile Include="..\..\..\tutors\26\pipeline.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\shadow_map_fbo.cpp">
+    <ClCompile Include="..\..\..\tutors\26\shadow_map_fbo.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\shadow_map_technique.cpp">
+    <ClCompile Include="..\..\..\tutors\26\shadow_map_technique.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\skybox.cpp">
+    <ClCompile Include="..\..\..\tutors\26\skybox.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\skybox_technique.cpp">
+    <ClCompile Include="..\..\..\tutors\26\skybox_technique.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\main.cpp">
+    <ClCompile Include="..\..\..\tutors\26\main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\technique.cpp">
+    <ClCompile Include="..\..\..\tutors\26\technique.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\26\texture.cpp">
+    <ClCompile Include="..\..\..\tutors\26\texture.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\callbacks.h">
+    <ClInclude Include="..\..\..\tutors\26\callbacks.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\camera.h">
+    <ClInclude Include="..\..\..\tutors\26\camera.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\cubemap_texture.h">
+    <ClInclude Include="..\..\..\tutors\26\cubemap_texture.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\engine_common.h">
+    <ClInclude Include="..\..\..\tutors\26\engine_common.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\glut_backend.h">
+    <ClInclude Include="..\..\..\tutors\26\glut_backend.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\lighting_technique.h">
+    <ClInclude Include="..\..\..\tutors\26\lighting_technique.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\math_3d.h">
+    <ClInclude Include="..\..\..\tutors\26\math_3d.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\mesh.h">
+    <ClInclude Include="..\..\..\tutors\26\mesh.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\pipeline.h">
+    <ClInclude Include="..\..\..\tutors\26\pipeline.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\shadow_map_fbo.h">
+    <ClInclude Include="..\..\..\tutors\26\shadow_map_fbo.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\shadow_map_technique.h">
+    <ClInclude Include="..\..\..\tutors\26\shadow_map_technique.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\skybox.h">
+    <ClInclude Include="..\..\..\tutors\26\skybox.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\skybox_technique.h">
+    <ClInclude Include="..\..\..\tutors\26\skybox_technique.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\technique.h">
+    <ClInclude Include="..\..\..\tutors\26\technique.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\texture.h">
+    <ClInclude Include="..\..\..\tutors\26\texture.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\26\util.h">
+    <ClInclude Include="..\..\..\tutors\26\util.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

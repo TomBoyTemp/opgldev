@@ -19,39 +19,39 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\25\camera.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\25\cubemap_texture.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\25\glut_backend.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\25\lighting_technique.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\25\main.cpp">
+    <ClCompile Include="..\..\..\tutors\25\camera.cpp" />
+    <ClCompile Include="..\..\..\tutors\25\cubemap_texture.cpp" />
+    <ClCompile Include="..\..\..\tutors\25\glut_backend.cpp" />
+    <ClCompile Include="..\..\..\tutors\25\lighting_technique.cpp" />
+    <ClCompile Include="..\..\..\tutors\25\main.cpp">
       <AdditionalIncludeDirectories Condition="'$(Configuration)|$(Platform)'=='Release|x64'">..\..\..\ImageMagick-7.1.1-Q16-HDRI\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\25\math_3d.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\25\mesh.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\25\pipeline.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\25\shadow_map_fbo.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\25\skybox.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\25\skybox_technique.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\25\technique.cpp" />
-    <ClCompile Include="..\..\..\..\..\Desktop\tutors\25\texture.cpp" />
+    <ClCompile Include="..\..\..\tutors\25\math_3d.cpp" />
+    <ClCompile Include="..\..\..\tutors\25\mesh.cpp" />
+    <ClCompile Include="..\..\..\tutors\25\pipeline.cpp" />
+    <ClCompile Include="..\..\..\tutors\25\shadow_map_fbo.cpp" />
+    <ClCompile Include="..\..\..\tutors\25\skybox.cpp" />
+    <ClCompile Include="..\..\..\tutors\25\skybox_technique.cpp" />
+    <ClCompile Include="..\..\..\tutors\25\technique.cpp" />
+    <ClCompile Include="..\..\..\tutors\25\texture.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\callbacks.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\camera.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\cubemap_texture.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\engine_common.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\glut_backend.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\lighting_technique.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\math_3d.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\mesh.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\pipeline.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\shadow_map_fbo.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\shadow_map_technique.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\skybox.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\skybox_technique.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\technique.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\texture.h" />
-    <ClInclude Include="..\..\..\..\..\Desktop\tutors\25\util.h" />
+    <ClInclude Include="..\..\..\tutors\25\callbacks.h" />
+    <ClInclude Include="..\..\..\tutors\25\camera.h" />
+    <ClInclude Include="..\..\..\tutors\25\cubemap_texture.h" />
+    <ClInclude Include="..\..\..\tutors\25\engine_common.h" />
+    <ClInclude Include="..\..\..\tutors\25\glut_backend.h" />
+    <ClInclude Include="..\..\..\tutors\25\lighting_technique.h" />
+    <ClInclude Include="..\..\..\tutors\25\math_3d.h" />
+    <ClInclude Include="..\..\..\tutors\25\mesh.h" />
+    <ClInclude Include="..\..\..\tutors\25\pipeline.h" />
+    <ClInclude Include="..\..\..\tutors\25\shadow_map_fbo.h" />
+    <ClInclude Include="..\..\..\tutors\25\shadow_map_technique.h" />
+    <ClInclude Include="..\..\..\tutors\25\skybox.h" />
+    <ClInclude Include="..\..\..\tutors\25\skybox_technique.h" />
+    <ClInclude Include="..\..\..\tutors\25\technique.h" />
+    <ClInclude Include="..\..\..\tutors\25\texture.h" />
+    <ClInclude Include="..\..\..\tutors\25\util.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
